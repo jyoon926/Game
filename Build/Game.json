@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "New Unity Project",
+"productName": "Game",
 "dataUrl": "Game.data.unityweb",
 "wasmCodeUrl": "Game.wasm.code.unityweb",
 "wasmFrameworkUrl": "Game.wasm.framework.unityweb",
